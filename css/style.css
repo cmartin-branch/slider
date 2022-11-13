@@ -32,7 +32,7 @@ display: flex;
 	align-items: center;
 	padding: 10px 20px;
 	box-sizing: border-box;
-	font-family: calibri;
+	font-family: sans-serif;
 }
 .type{
 	display: flex;
