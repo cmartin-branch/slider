@@ -46,7 +46,7 @@ function show(data) {
     	<!--type-------->
     	<div class="type">
     	<a href="#">${r.title}</a>
-    	<span>Noe Arrival</span>
+    	<span>New Arrival</span>
     	</div>
     	<!--price-------->
     	<a href="#" class="price">${r.price}</a>
