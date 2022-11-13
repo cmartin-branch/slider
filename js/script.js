@@ -21,11 +21,7 @@ async function getapi(url) {
 // Calling that async function
 getapi(api_url);
 
-// Function to hide the loader
-// function hideloader() {
-//     document.getElementById('loading').style.display = 'none';
-// }
-// Function to define innerHTML for HTML table
+
 function show(data) {
     let tab = "";
 
